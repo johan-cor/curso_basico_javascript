@@ -90,7 +90,7 @@ console.log(autonuevo);
 
 
 /////////////////////////////////////////////////////////////////
-//filtradon arrays con el metodo flter
+//filtradon arrays con el metodo filter
 
 var articulos = [
     {nombre:"costo", costo:3000},
